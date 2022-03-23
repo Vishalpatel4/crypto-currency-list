@@ -2,7 +2,6 @@
   "name": "crypto-currency-app",
   "author": "Vishal Patel",
   "version": "0.1.0",
-  "private": true,
   "main": "index.js",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
